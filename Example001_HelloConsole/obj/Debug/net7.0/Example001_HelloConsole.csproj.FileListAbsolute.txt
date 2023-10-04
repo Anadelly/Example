@@ -1,0 +1,14 @@
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.exe
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.deps.json
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.runtimeconfig.json
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.dll
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.pdb
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfo.cs
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.dll
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\refint\Example001_HelloConsole.dll
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.pdb
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.genruntimeconfig.cache
+D:\Программирование\Обучение\Examples\Example001_HelloConsole\obj\Debug\net7.0\ref\Example001_HelloConsole.dll
